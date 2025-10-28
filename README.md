@@ -1,0 +1,1 @@
+# YetJudy-Trademark-Declaration
