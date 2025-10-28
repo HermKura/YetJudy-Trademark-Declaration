@@ -20,7 +20,12 @@ YetJudy™ is a distinctive brand name used in connection with the following fie
 - Interdisciplinary Sciences  
 🕹️ **eSports Participation**  
 📺 **Digital Content Creation and Streaming**  
-🎬 **Romantic Filmmaking**, including semi-explicit scenes and science fiction narratives  
+🎬 **Romantic and Science Fiction Filmmaking**, including:  
+- Acting  
+- Scriptwriting  
+- Directing  
+- Producing  
+- Semi-explicit scenes  
 🎼 **Music Composition and Live Performance**  
 📚 **Printed Materials** including academic publications, manuals, and educational resources related to research and gaming  
 
@@ -32,12 +37,12 @@ The brand YetJudy™ is intended to be registered under the following internatio
 | Class | Description |
 |-------|-------------|
 | Class 9  | Software products, including video games, downloadable content, and educational software |
-| Class 41 | Education, training, entertainment services, including eSports tournaments, streaming, music performance, and academic dissemination |
+| Class 41 | Education, training, entertainment services, including eSports tournaments, streaming, music performance, acting, and academic dissemination |
 | Class 42 | Scientific and technological services, including research in ludology, physics-mathematics, and software development |
 | Class 38 | Telecommunications services, including streaming platforms and digital broadcasting |
 | Class 16 | Printed materials, academic publications, and manuals related to research and gaming |
 | Class 15 | Musical instruments and related accessories |
-| Class 21 | Audiovisual production, including romantic and science fiction filmmaking |
+| Class 21 | Audiovisual production, including romantic and science fiction filmmaking, scriptwriting, directing, and producing |
 
 ---
 
